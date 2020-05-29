@@ -69,7 +69,7 @@ The dataset contains two categorical variables: Gene and Variation; and a text f
     Target encoded categorical features + 
     Scispacy processed text + 
     TFIDF weighted word2vec —> Multinomial Naive Bayes 
-    —> Log loss of 1.4
+    —> Log loss of 1.63
 
     Average precision: 
     Average recall:
