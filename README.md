@@ -70,6 +70,18 @@ The dataset contains two categorical variables: Gene and Variation; and a text f
     Scispacy processed text + 
     TFIDF weighted word2vec —> Multinomial Naive Bayes 
     —> Log loss of 1.63
+ **Confusion Matrix**   
+ ![](Images/confusion_matrix.png)
+ 
+ <Br>
+	
+ **Precision** 
+ ![](Images/Precision.png)
+ 
+ <Br>
+	
+ **Recall**
+ ![](Images/Recall.png)
 
     Average precision: 
     Average recall:
